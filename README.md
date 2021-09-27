@@ -1,5 +1,5 @@
 ### Hi, I'm Angelli! 👋
-#### software engineer, design enthusiast, nyt bestselling reader (she/her)
+#### software engineer, design enthusiast, serial book hoarder (she/her)
 
 Currently:
 - 📍 Based in Vancouver, Canada.
