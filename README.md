@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi, I'm Angelli! 👋
+#### software engineer, design enthusiast, nyt bestselling reader (she/her)
 
-<!--
-**adimatulac/adimatulac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+- 📍 Based in Vancouver, Canada.
+- 🌱 Working on a remote monitoring and analysis system for all of the desk plants I collected over the pandemic.
+- 💬 Learning Japanese if only to make my aging Japanese uncle laugh with my effort and superbly limited vocabulary.
+- 📘 Reading... probably another book from my favourite genre of ✨*Books That Break Your Heart And Leave You Stunned And In Tears For Days*✨. (At the time of updating this, it's [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) by Anthony Doerr.)
+- 🎶 Listening to [99% Invisible](https://99percentinvisible.org/) on the increasingly rare occasion that I have a long commute/drive.
+- 🎬 Watching [Love on the Spectrum](https://www.imdb.com/title/tt11904786/).
+- ☕ Found on [LinkedIn](https://www.linkedin.com/in/angellidimatulac/) – come say hi!
