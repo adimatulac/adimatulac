@@ -1,5 +1,5 @@
 ### Hi, I'm Angelli! 👋
-#### software engineer, design enthusiast, serial book hoarder
+#### software engineer, designer of sorts, serial book hoarder
 
 Currently:
 - 📍 Living on the unceded territories of the Musqueam, Squamish, and Tsleil-Waututh nations (Vancouver, Canada).
