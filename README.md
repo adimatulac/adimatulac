@@ -2,7 +2,7 @@
 #### software engineer, design enthusiast, serial book hoarder
 
 Currently:
-- 📍 Living on the traditional and unceded territories of the Musqueam, Squamish, and Tsleil-Waututh nations (Vancouver, Canada).
+- 📍 Living on the unceded territories of the Musqueam, Squamish, and Tsleil-Waututh nations (Vancouver, Canada).
 - 🌱 Working on a remote monitoring and analysis system for all of the desk plants I collected over the pandemic.
 - 💬 Learning Japanese if only to make my aging Japanese uncle laugh with my effort and spectacularly limited vocabulary.
 - 📘 Reading... probably another book from my favourite genre of ✨*Books That Break Your Heart And Leave You Stunned And In Tears For Days*✨. (At the time of updating this, it's [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) by Anthony Doerr.)
